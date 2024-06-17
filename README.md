@@ -1,30 +1,48 @@
 # sustainable_behavior
 
-TODO(b/343066048): Add a description for your new project, explain what is
-being released here, etc... Additional, the following sections are normally
-expected for all releases. Feel free to add additional sections if appropriate
-for your project.
-
-## Installation
-
-Write instructions for how the user should install your code. The instructions
-should ideally be valid when copy-pasted. You can combine this with the Usage
-section if there's no separate installation step.
+This repository contains the code accompanying the publication
+**Using deep reinforcement learning to promote sustainable
+human behaviour on a common pool resource problem**,
+published in the Nature Communications, 2024.
 
 ## Usage
 
-Write example usage of your code. The instructions should ideally be valid when
-copy-pasted, and will be used by your technical reviewer to verify that your
-package functions correctly.
+### Figures
+
+You can load the dataset and the code used to produce the figures in the
+research article using Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/sustainable_behavior/blob/main/notebooks/sustainable_behavior.ipynb)
+
+
+Clone this repository with
+
+```sh
+git clone https://github.com/google-deepmind/sustainable_behavior.git
+```
 
 ## Citing this work
 
-Add citation details here, usually a pastable BibTeX snippet:
-
 ```latex
-@article{publicationname,
-      title={Publication Name},
-      author={Author One and Author Two and Author Three},
+@article{kosterpislar2024sustainable,
+      title={Using deep reinforcement learning to promote sustainable
+             human behaviour on a common pool resource problem},
+      author={Koster, R AND
+              Pislar, M AND
+              Tacchetti, A AND
+              Balaguer, J AND
+              Liu, L AND
+              Elie, R AND
+              Hauser, OP AND
+              Tuyls, K AND
+              Botvinick, M AND
+              Summerfield, C},
+      journal={Nature Communications},
+      volume={XXX},
+      number={XX},
+      pages={X},
+      doi={XXX},
+      URL={XXX},
+      publisher={Nature Publishing Group UK London}
       year={2024},
 }
 ```
