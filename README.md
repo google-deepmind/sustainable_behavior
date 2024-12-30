@@ -3,7 +3,7 @@
 This repository contains the code accompanying the publication
 **Using deep reinforcement learning to promote sustainable
 human behaviour on a common pool resource problem**,
-published in the Nature Communications, 2024.
+published in the Nature Communications, 2025.
 
 ## Usage
 
@@ -23,7 +23,7 @@ git clone https://github.com/google-deepmind/sustainable_behavior.git
 ## Citing this work
 
 ```latex
-@article{kosterpislar2024sustainable,
+@article{kosterpislar2025sustainable,
       title={Using deep reinforcement learning to promote sustainable
              human behaviour on a common pool resource problem},
       author={Koster, R AND
@@ -43,7 +43,7 @@ git clone https://github.com/google-deepmind/sustainable_behavior.git
       doi={XXX},
       URL={XXX},
       publisher={Nature Publishing Group UK London}
-      year={2024},
+      year={2025},
 }
 ```
 
