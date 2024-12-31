@@ -1,8 +1,8 @@
 # sustainable_behavior
 
 This repository contains the code accompanying the publication
-**Using deep reinforcement learning to promote sustainable
-human behaviour on a common pool resource problem**,
+**Deep reinforcement learning can promote sustainable human
+behaviour in a common-pool resource problem**,
 published in the Nature Communications, 2025.
 
 ## Usage
@@ -24,8 +24,8 @@ git clone https://github.com/google-deepmind/sustainable_behavior.git
 
 ```latex
 @article{kosterpislar2025sustainable,
-      title={Using deep reinforcement learning to promote sustainable
-             human behaviour on a common pool resource problem},
+      title={Deep reinforcement learning can promote sustainable human
+behaviour in a common-pool resource problem},
       author={Koster, R AND
               Pislar, M AND
               Tacchetti, A AND
